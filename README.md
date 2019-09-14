@@ -1,2 +1,4 @@
 # hello-world
-Just
+Hi ,
+
+Im Ron. I like to see movies
